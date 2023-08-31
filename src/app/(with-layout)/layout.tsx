@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: "Lifecare|| Home",
 };
 
-export default function RootLayout({
+export default function WithLayout({
   children,
 }: {
   children: React.ReactNode;
