@@ -2,9 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.container{
-@apply max-w-[1240px] px-3 mx-auto
+.container {
+  @apply max-w-[1240px] px-3 mx-auto;
 }
-.active{
-    @apply hover:text-[#5e5eef] text-[#5e5eef]
+.active {
+  @apply hover:text-[#5e5eef] text-[#5e5eef];
 }

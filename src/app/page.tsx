@@ -1,5 +1,4 @@
-import React from 'react';
-import Banner from '@/components/home/Banner';
+import Banner from "@/components/Home/Banner";
 
 const page = () => {
   return (
@@ -10,5 +9,3 @@ const page = () => {
 };
 
 export default page;
-
-
